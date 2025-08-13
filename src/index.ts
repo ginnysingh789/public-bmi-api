@@ -604,9 +604,9 @@ const pageHtml = `<!DOCTYPE html>
   <footer>
     <div class="container">
       <div class="footer-links">
-        <a href="https://github.com/ginnysingh789/bmi-api" target="_blank">GitHub</a>
-        <a href="https://github.com/ginnysingh789/bmi-api/issues" target="_blank">Report Issue</a>
-        <a href="https://github.com/ginnysingh789/bmi-api#api-documentation" target="_blank">API Docs</a>
+        <a href="https://github.com/ginnysingh789/public-bmi-api" target="_blank">GitHub</a>
+        <a href="https://github.com/ginnysingh789/public-bmi-api/issues" target="_blank">Report Issue</a>
+        <a href="https://github.com/ginnysingh789/public-bmi-api#api-documentation" target="_blank">API Docs</a>
       </div>
       <p class="text-muted"> 2025 BMI Calculator API • MIT License • Free Public API</p>
     </div>

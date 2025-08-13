@@ -2,7 +2,7 @@
 
 A free, open-source REST API for calculating Body Mass Index (BMI) with WHO category classification. No authentication required, CORS-enabled for browser access.
 
-**Live API**: `https://bmi-api.ginnysangral786-f5a.workers.dev`
+**Live API**: [https://bmi-api.ginnysangral786-f5a.workers.dev](https://bmi-api.ginnysangral786-f5a.workers.dev)
 
 ## Features
 
@@ -17,9 +17,7 @@ A free, open-source REST API for calculating Body Mass Index (BMI) with WHO cate
 ## Quick Start
 
 ### Base URL
-```
-https://bmi-api.ginnysangral786-f5a.workers.dev
-```
+[https://bmi-api.ginnysangral786-f5a.workers.dev](https://bmi-api.ginnysangral786-f5a.workers.dev)
 
 ### Example Request
 ```bash
@@ -145,21 +143,6 @@ npm run dev
 npm test
 ```
 
-### Deployment
-```bash
-# Login to Cloudflare
-wrangler login
-
-# Deploy to Cloudflare Workers
-wrangler deploy
-```
-
-## For public-apis Submission
-
-```markdown
-| [BMI Calculator](https://bmi-api.ginnysangral786-f5a.workers.dev) | Calculate BMI with metric/imperial units | No | Yes | Yes |
-```
-
 ## License
 
 MIT License - Free to use in personal and commercial projects.
@@ -170,4 +153,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues or questions, please [open an issue](https://github.com/yourusername/bmi-api-worker/issues) on GitHub.
+For issues or questions, please [open an issue](https://github.com/ginnysingh789/public-bmi-api/issues) on GitHub.
